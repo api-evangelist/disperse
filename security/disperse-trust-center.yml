@@ -1,0 +1,34 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://security.openspace.ai/
+url: https://security.openspace.ai/
+platform: SafeBase
+note: Disperse was acquired by OpenSpace in 2023; this trust center covers the
+  combined OpenSpace Visual Intelligence Platform, the live operating home of the
+  Disperse product line.
+certifications:
+- SOC 2 Type 2
+- SOC 3
+- CSA STAR Level 1
+- GDPR
+- CCPA
+- CPRA
+- EU-US Data Privacy Framework
+- Swiss-US Data Privacy Framework
+- Cyber Essentials
+- Cyber Essentials Plus
+- Global CBPR
+- Global PRP
+- PDPA (Singapore)
+- TX-RAMP
+evidence:
+- source: https://security.openspace.ai/
+  keywords:
+  - soc 2 type 2
+  - soc 3
+  - csa star level 1
+  - gdpr
+  - trust center
+  - cyber essentials
+  - tx-ramp

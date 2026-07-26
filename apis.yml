@@ -1,8 +1,27 @@
 aid: disperse
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/disperse.png
 name: Disperse
-description: 'Disperse is a company surfaced as a portfolio company of northzone and added to the API
-  Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Disperse was a London-based construction technology company, backed by Northzone,
+  that used computer vision and machine learning to turn 360-degree jobsite imagery into
+  automated construction progress tracking and productivity analytics for general contractors.
+  Disperse was acquired by OpenSpace in 2023 and its product line and team were folded into
+  the OpenSpace Visual Intelligence Platform; the disperse.io domain now redirects to
+  openspace.ai. OpenSpace, powered by Spatial AI, turns smartphone, 360-degree camera, and
+  drone capture into real-time jobsite intelligence connecting the field and the office
+  across documentation, coordination, progress tracking, BIM, and construction risk
+  management. This API Evangelist profile tracks the combined OpenSpace surface as the live
+  operating home of the Disperse lead.'
 url: https://raw.githubusercontent.com/api-evangelist/disperse/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +29,22 @@ x-backed-by:
 - northzone
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-acquired-by: openspace
+x-operating-domain: openspace.ai
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Enterprise
+- Construction
+- Construction Technology
+- Computer Vision
+- Machine Learning
+- Reality Capture
+- Progress Tracking
+- BIM
+- Visual Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +52,36 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/disperse-trust-center.yml
+- type: DomainSecurity
+  url: security/disperse-domain-security.yml
 - type: Website
-  url: http://disperse.io
+  url: https://www.openspace.ai/
+- type: About
+  url: https://www.openspace.ai/about/
+- type: Blog
+  url: https://www.openspace.ai/blog/
+- type: Support
+  url: https://support.openspace.ai/
+- type: Pricing
+  url: https://www.openspace.ai/request-demo-pricing/
+- type: SignUp
+  url: https://www.openspace.ai/get-a-demo/
+- type: PrivacyPolicy
+  url: https://www.openspace.ai/privacy-policy/
+- type: TermsOfService
+  url: https://www.openspace.ai/tandc/
+- type: Compliance
+  url: https://security.openspace.ai/
+- type: VulnerabilityDisclosure
+  url: security/disperse-vulnerability-disclosure.yml
+- type: Security
+  url: https://security.openspace.ai/
+- type: LLMsTxt
+  url: llms/disperse-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -64,6 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Disperse is a company surfaced as a portfolio company of northzone and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+Disperse was a London-based construction technology company, backed by Northzone, that used computer vision and machine learning to turn 360-degree jobsite imagery into automated construction progress tracking and productivity analytics for general contractors. Disperse was acquired by OpenSpace in 2023 and its product line and team were folded into the OpenSpace Visual Intelligence Platform; the disperse.io domain now redirects to openspace.ai. OpenSpace, powered by Spatial AI, turns smartphone, 360-degree camera, and drone capture into real-time jobsite intelligence connecting the field and the office across documentation, coordination, progress tracking, BIM, and construction risk management. This API Evangelist profile tracks the combined OpenSpace surface as the live operating home of the Disperse lead.
 
-Backed by: northzone — http://disperse.io
+**Areas:** Company · Enterprise · Construction · Construction Technology · Computer Vision · Machine Learning · Reality Capture · Progress Tracking · BIM · Visual Intelligence
+
+## Disperse on APIs.io
+
+Everything profiled for Disperse is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/disperse/](https://apis.io/providers/disperse/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Disperse Domain Security](https://apis.io/security/disperse/disperse-domain-security/)
+- [Disperse Trust Center](https://apis.io/security/disperse/disperse-trust-center/)
+- [Disperse Vulnerability Disclosure](https://apis.io/security/disperse/disperse-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Disperse Plans Pricing](https://apis.io/plans/disperse/disperse-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.openspace.ai/)
+- [Pricing](https://www.openspace.ai/request-demo-pricing/)
+- [Sign up](https://www.openspace.ai/get-a-demo/)
+- [Support](https://support.openspace.ai/)
+- [Blog](https://www.openspace.ai/blog/)
+- [Security](https://security.openspace.ai/)
+- [Compliance](https://security.openspace.ai/)
+- [Terms of service](https://www.openspace.ai/tandc/)
+- [Privacy policy](https://www.openspace.ai/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 27.9** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 92.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/disperse/](https://apis.io/providers/disperse/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Disperse: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/disperse/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
